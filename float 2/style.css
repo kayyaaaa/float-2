@@ -1,0 +1,35 @@
+body{
+   
+    
+}
+.box1{
+    width: 230px;
+    height: 297px;
+    border: 2px solid  rgba(235, 235, 235, 0.33) ;
+    background: #FFF;
+    overflow-x: scroll;
+    float: left;
+}
+.content{
+    color: #000;
+    font-family: Inter;
+   font-size: 12px;
+   font-style: normal;
+   font-weight: 400;
+   position: relative;
+   
+   
+   
+   
+   
+}
+.img{
+    width: 560px;
+   height: 646.528px;
+   float: right;
+   margin-top: 9px;
+   margin-right: 8px;
+}
+
+ 
+
